@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "url": "/imagenes/lenceria/lenceria1.jpg",
+        "alt": "Conjunto de lencería elegante",       
+        "precio": 45.99,
+        "descripcion": "Conjunto de lencería elegante y cómodo, perfecto para cualquier ocasión especial.",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "url": "/imagenes/lenceria/r2.jpg",
+        "alt": "Babydoll de encaje",       
+        "precio": 39.99,
+        "descripcion": "Babydoll de encaje sensual y delicado, ideal para una noche romántica.",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "url": "/imagenes/lenceria/r3.jpg",
+        "alt": "Body de seda",        
+        "precio": 49.99,
+        "descripcion": "Body de seda suave y cómodo, perfecto para sentirte sexy y elegante.",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "url": "/imagenes/lenceria/r4.jpg",
+        "alt": "Tanga de encaje",       
+        "precio": 55.99,
+        "descripcion": "Tanga de encaje seductor y provocativo, para sorprender a tu pareja.",
+        "stock": 12
+    },
+    {
+        "id": 5,
+        "url": "/imagenes/lenceria/r5.jpg",
+        "alt": "Sujetador de encaje",       
+        "precio": 35.99,
+        "descripcion": "Sujetador de encaje elegante y sofisticado, para realzar tu figura.",
+        "stock": 18
+    },
+    {
+        "id": 6,
+        "url": "/imagenes/lenceria/r6.jpg",
+        "alt": "Pijama de seda",        
+        "precio": 59.99,
+        "descripcion": "Pijama de seda suave y cómodo, perfecto para una noche de descanso.",
+        "stock": 25
+    },
+    {
+        "id": 7,
+        "url": "/imagenes/lenceria/r7.jpg",
+        "alt": "Body de encaje y transparencias",       
+        "precio": 42.99,
+        "descripcion": "Body de encaje con detalles de transparencias, para una ocasión especial.",
+        "stock": 8
+    },
+    {
+        "id": 8,
+        "url": "/imagenes/lenceria/r8.jpg",
+        "alt": "Panty de encaje",       
+        "precio": 29.99,
+        "descripcion": "Panty de encaje cómodo y ajustado, para sentirte sexy y segura.",
+        "stock": 30
+    },
+    {
+        "id": 9,
+        "url": "/imagenes/lenceria/r9.jpg",
+        "alt": "Conjunto de lencería con encaje floral",       
+        "precio": 49.99,
+        "descripcion": "Conjunto de lencería con delicados detalles de encaje floral, para una noche especial.",
+        "stock": 15
+    }
+]

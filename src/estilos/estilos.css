@@ -1,0 +1,218 @@
+
+
+body {
+
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .fitroHeader input{
+ border: grey 1px solid!important;
+    border-radius: 10px!important;
+    border: none;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+
+
+
+
+.frontalgif{
+  margin: 20px;
+  height: 778px;
+  background-image: url('../imagenes/frontal.gif')
+}
+
+.navHeader{
+  height: 94px;
+  width: 100%;
+  background: rgb(255,255,255);
+  background: rgb(255,255,255);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 1%, rgba(243,243,246,1) 73%, rgba(237,237,241,0) 100%);
+}
+
+.header img{
+    height: 90px
+}
+
+.categorias a{
+    padding:0 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.categorias a:hover{
+    color:#D57A7F ;
+   
+}
+
+
+.notifi{
+  background-color: transparent!important;
+  border: none!important;
+}
+
+.notifi .fa-cart-shopping{
+color :rgb(0, 0, 0)
+}
+
+.notifi a{
+  color: #D57A7F!important;
+}
+
+.imagenInicio img{
+  width: 100%;
+  height: 800px;
+}
+
+.imagens{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+
+.catalogo{
+  /* border: red solid 1px; */
+  padding: 50px;
+}
+
+.decripcionCatalogo p{
+  /* border: blue solid 2px; */
+  
+  width: 300px;
+}
+
+.imagens img {
+  margin: 24px;
+  width: 300px;
+  height: 380px;
+  padding:  15px;
+}
+
+/* .imagens img:hover{
+  background-image: url('../imagenes//patrones.jpg');
+} */
+.catalogo:hover{
+  background-color: rgba(214, 211, 211, 0.137);
+}
+
+.imagens .description{
+  margin-bottom: -45px ;
+}
+
+.buttonSelect{
+  height: 60px;
+  width: 50%;
+  border: none;
+}
+
+
+
+.botonSeletActive{
+  background-color: #d57a7f57;
+}
+
+
+.active{
+  color: rgb(189, 5, 66)!important;
+}
+
+.contenidoCarrito{
+  margin-top: 50px;
+  height: 400px;
+    overflow: auto;
+}
+
+.cajitaCar{
+  border-bottom: solid 1px grey!important;
+
+  /* border: solid red 1px!important; */
+  width: 100%;
+  
+  border: solid 1px white;
+  background-color: white;
+}
+
+.cajitaCarNombre{
+  width: 250px;
+
+}
+
+.cajaCarritoFIanl{
+  border-radius: 10px;
+  background-color: rgba(221, 221, 221, 0.493);
+  /* height: 700px; */
+ 
+}
+
+.izquierdoDetalle{
+  width: 50%;
+}
+
+.izquierdoDetalle img{
+  border-radius: 10px;
+  width: 75px;
+  height: 65px;
+
+}
+
+.derechoCarritoFinal{
+  padding: 10px;
+  margin: 100px;
+  border-radius: 10px;
+  background-color: white;
+  width: 40%;
+  /* height: 200px; */
+
+}
+
+.fotocarrito{
+  height: 55px;
+  width: 45px;
+}
+
+.masomenos{
+  width: 100px!important;
+}
+
+.mascarrito{
+  padding: 4px 6px;
+  color: black;
+
+}
+
+.mascarrito:hover{
+  color: palevioletred;
+  background-color: rgba(175, 174, 174, 0.466);
+  border-radius: 10px;
+
+}
+
+.categoria:hover{
+  color: #D57A7F!important;
+}
+
+.stock{
+  font-size: 12px;
+  margin-top: -20px;
+}
+
+.botonVaciar{
+  border: #D57A7F solid 2px!important;
+  background-color: #d19699!important;
+}
+
+.botonVaciar:hover{
+  border: #d19699 solid 2px!important;
+  background-color:#D57A7F!important;
+}

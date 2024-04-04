@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28af3cea.css",
+    "main.js": "/static/js/main.579c224c.js",
+    "static/js/787.b0dfbda3.chunk.js": "/static/js/787.b0dfbda3.chunk.js",
+    "static/media/frontal.gif": "/static/media/frontal.7ea27dc6e6524339975c.gif",
+    "static/media/lenceria1.jpg": "/static/media/lenceria1.3829ab422b7f307efc70.jpg",
+    "static/media/logoreason.png": "/static/media/logoreason.bf11db29d417743a9d15.png",
+    "index.html": "/index.html",
+    "main.28af3cea.css.map": "/static/css/main.28af3cea.css.map",
+    "main.579c224c.js.map": "/static/js/main.579c224c.js.map",
+    "787.b0dfbda3.chunk.js.map": "/static/js/787.b0dfbda3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28af3cea.css",
+    "static/js/main.579c224c.js"
+  ]
+}
